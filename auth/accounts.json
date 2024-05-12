@@ -1,0 +1,12 @@
+{
+    "accounts":[
+        {
+            "Login": "Test2024",
+            "password": "qwerty123"
+        },
+        {
+            "Login": "Test2024New",
+            "password": "qwerty123"
+        }
+    ]
+}
